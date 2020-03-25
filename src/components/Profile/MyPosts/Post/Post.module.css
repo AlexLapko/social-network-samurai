@@ -1,0 +1,13 @@
+.MyPosts__posts {
+
+}
+
+.Post__item {
+	color: #14709b;
+}
+
+.Post__photo {
+	width: 100px;
+	height: 100px;
+	border-radius: 50%;
+}

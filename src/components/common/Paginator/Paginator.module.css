@@ -1,0 +1,30 @@
+.paginatorWrap {
+	display: flex;
+	justify-content: center;
+}
+
+.Paginator {
+ display: flex;
+ margin: 20px 0;
+}
+
+.pageNumber {
+	margin: 3px;
+	background-color: #cfd2d4;
+	border-radius: 3px;
+	padding: 3px;
+	color: #000000
+}
+
+.selectedPage {
+	font-weight: bold;
+	background-color: #a8a9aa;
+}
+
+span:hover {
+	cursor: pointer;
+}
+
+button:hover {
+	cursor: pointer;
+}

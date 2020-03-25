@@ -1,0 +1,31 @@
+.Navbar {
+	grid-area: n;
+	background-color: #8ba6ee;
+}
+
+.Navbar ul{
+	margin: 0;
+	padding: 0;
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+	font-weight: bold;
+	margin-top: 25px;
+}
+
+.item {
+	list-style: none;
+	margin-bottom: 15px;
+}
+
+.item a {
+	text-decoration: none;
+	color: rgb(92, 42, 139);
+	font-size: 18px;
+}
+
+.item a.activeLink {
+	color: rgb(230, 108, 51);
+}
+
+
