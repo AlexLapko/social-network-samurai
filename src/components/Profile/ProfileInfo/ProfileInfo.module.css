@@ -2,6 +2,14 @@
 	max-width: 100%;
 }
 
+.photo {
+	width: 200px;
+	height: 200px;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+}
+
 .descriptionBlock {
 	padding: 10px;
 }
