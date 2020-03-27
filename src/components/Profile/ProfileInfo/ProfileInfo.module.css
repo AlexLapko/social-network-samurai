@@ -13,3 +13,10 @@
 .descriptionBlock {
 	padding: 10px;
 }
+.contact {
+	margin-left: 20px;
+}
+.formSummaryError {
+	border: 1ps solid red;
+	color: red;
+}
